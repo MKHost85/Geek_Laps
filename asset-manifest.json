@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.29033181.css",
+    "main.js": "/react-gh-pages/static/js/main.49beba0f.js",
+    "static/media/street suite logo-04.png": "/react-gh-pages/static/media/street suite logo-04.08dec00309025e2c5a28.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.29033181.css.map": "/react-gh-pages/static/css/main.29033181.css.map",
+    "main.49beba0f.js.map": "/react-gh-pages/static/js/main.49beba0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29033181.css",
+    "static/js/main.49beba0f.js"
+  ]
+}
