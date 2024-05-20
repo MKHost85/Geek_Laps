@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Geek_Laps/static/css/main.29033181.css",
-    "main.js": "/Geek_Laps/static/js/main.fd0ac1dc.js",
+    "main.css": "/Geek_Laps/static/css/main.6b9d536b.css",
+    "main.js": "/Geek_Laps/static/js/main.ec595d9a.js",
     "static/media/street suite logo-04.png": "/Geek_Laps/static/media/street suite logo-04.08dec00309025e2c5a28.png",
     "index.html": "/Geek_Laps/index.html",
-    "main.29033181.css.map": "/Geek_Laps/static/css/main.29033181.css.map",
-    "main.fd0ac1dc.js.map": "/Geek_Laps/static/js/main.fd0ac1dc.js.map"
+    "main.6b9d536b.css.map": "/Geek_Laps/static/css/main.6b9d536b.css.map",
+    "main.ec595d9a.js.map": "/Geek_Laps/static/js/main.ec595d9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.29033181.css",
-    "static/js/main.fd0ac1dc.js"
+    "static/css/main.6b9d536b.css",
+    "static/js/main.ec595d9a.js"
   ]
 }
